@@ -1,3 +1,4 @@
+layout: post
 title: Website simulator intro
 ---
 ## Website simulator
